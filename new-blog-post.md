@@ -1,4 +1,3 @@
-# aiagent-project
 ## The Future of Healthcare: AI-Powered Personalized Medicine
 
 The healthcare landscape is undergoing a dramatic transformation, with artificial intelligence (AI) emerging as a powerful force for innovation. At the forefront of this revolution is AI-powered personalized medicine, a paradigm shift that promises to deliver more effective, efficient, and patient-centric care.
